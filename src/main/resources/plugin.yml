@@ -1,0 +1,4 @@
+name: CoralStayalive
+version: '${project.version}'
+main: me.saeko.coralstayalive.CoralStayalive
+api-version: 1.17
